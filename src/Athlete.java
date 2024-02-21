@@ -1,2 +1,2 @@
-package PACKAGE_NAME;public class Athlete {
+public class Athlete extends Person{
 }
